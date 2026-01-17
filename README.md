@@ -66,12 +66,12 @@ Here's a breakdown of the key tasks I (Mohammed) completed in this project, show
 
 ## Visual Examples
 ### Monthly Fatalities Trend
-![Monthly Fatalities](https://via.placeholder.com/800x400?text=Sample+Line+Chart:+Monthly+Fatalities)  
-*(Run the notebook for interactive version; peaks in 2023-2024 correlate with major displacement.)*
+![Monthly Fatalities]<img width="784" height="525" alt="newplot-1" src="https://github.com/user-attachments/assets/6976bd94-4fa1-4a7d-977b-56c9fbbaf03c" />
+*( peaks in 2023-2024 correlate with major displacement.)*
 
 ### Top Regions by Fatalities
-![Regions Bar Chart](https://via.placeholder.com/800x400?text=Sample+Bar+Chart:+Fatalities+by+Region)  
-*(Interactive: Hover for exact numbers; Khartoum often tops due to urban fighting.)*
+![Regions Bar Chart]<img width="784" height="525" alt="newplot" src="https://github.com/user-attachments/assets/13e83347-3810-4911-9427-942bace22380" />  
+*(Interactive: The bar chart effectively highlights the regions most affected by conflict fatalities in Sudan since April 2023.)*
 
 ## Future Improvements
 - Add geospatial mapping (e.g., with Folium) for regional visuals.
