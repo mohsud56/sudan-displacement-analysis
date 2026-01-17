@@ -4,7 +4,20 @@
 *(Map by Béla Müller, Genocide Watch)*
 
 ## Overview
-This repository contains a data analysis project examining the impact of the ongoing civil war in Sudan (starting April 2023) on displacement and migration. Using real data from ACLED (Armed Conflict Location & Event Data Project) and UNHCR, the project analyzes trends in political violence events, fatalities, and their correlation with displacement figures. The analysis is performed in Python via Google Colab, with interactive visualizations using Plotly.
+As a Sudanese who is passionate about humanitarian issues in Sudan, I built this project to highlight the displacement crisis using open data.
+
+This is my data analysis project on the ongoing war in Sudan and how it's causing massive displacement and migration. I put this together using real numbers from sources like ACLED and UNHCR. The whole thing was built on my phone with Google Colab – no fancy setup, just me figuring it out step by step.
+
+**What's This About?**
+The civil war in Sudan kicked off in April 2023 between the SAF and RSF, and it's led to one of the biggest humanitarian crises right now. Over 11 million people have been forced from their homes – some staying inside Sudan as IDPs, others fleeing to neighboring countries. I wanted to dig into the data to see how violence (like fatalities from clashes) ties into this displacement mess.
+Key stuff I found:
+
+Total fatalities reported since April 2023: around 52,125 (pulled from ACLED data).
+Total conflict events: about 14,581.
+From UNHCR (as of early 2026): Roughly 7.1 million IDPs in Sudan, 3.5 million refugees who've left, totaling 11.8 million displaced folks.
+Hardest-hit areas: Places like Khartoum, North Darfur, and Central Darfur have the most fatalities, which probably explains the migration waves from there.
+
+I used Python in Colab for everything – cleaning data, running calculations, and making charts. It's my way of practicing data skills while shining a light on something important.
 
 **Key Problem Addressed**: How has conflict intensity (measured by fatalities and events) driven one of the world's largest displacement crises, affecting over 11.8 million people?
 
@@ -17,8 +30,7 @@ This repository contains a data analysis project examining the impact of the ong
 This project demonstrates skills in data cleaning, analysis, visualization, and GitHub deployment. Built entirely on a mobile device using Google Colab for accessibility.
 
 ## Tasks and Accomplishments
-Here's a breakdown of the key tasks I (Mohammed) completed in this project, showcasing my end-to-end data analysis workflow:
-
+Here's a breakdown of the key tasks I completed in this project, Here's how I tackled the project step-by-step:
 ### 1. **Data Sourcing and Preparation**
    - Sourced real, aggregated monthly conflict data from ACLED (Excel file: `sudan_hrp_political_violence_events_and_fatalities_by_month-year_as-of-15jan2026.xlsx`).
    - Integrated static displacement statistics from UNHCR (latest as of Jan 2026).
